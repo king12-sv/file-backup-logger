@@ -1,0 +1,16 @@
+{
+  "source": "",
+  "destination": "",
+  "zip": true,
+  "backup_interval_minutes": 0,
+  "version_mode": "auto",
+  "manual_version": "",
+  "preferred_version_files": [
+    "version.txt",
+    "VERSION",
+    "package.json",
+    "pyproject.toml",
+    "setup.cfg",
+    "setup.py"
+  ]
+}
